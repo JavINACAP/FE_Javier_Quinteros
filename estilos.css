@@ -1,0 +1,24 @@
+body {
+    background-color: #96a1aa;
+    color: #000000;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Ventana {
+    background-image: url('ImagenCabecera/Tecnology.jpg');
+    background-size:contain;
+    color:rgb(214, 201, 201);
+    text-align: center;
+    background-color: rgb(105, 129, 118);
+    background-repeat: no-repeat;
+    background-size: cover;    
+  }
+  .card {
+    margin-bottom: 25px;
+  }
+
+.Titulo{
+    text-decoration: underline;
+
+}
